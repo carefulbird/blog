@@ -26,7 +26,7 @@ module.exports = config({
       iconPrefix: "icon-",
       docsBranch: 'master',
       docsDir: 'docs',
-      docsRepo: 'https://github.com/LastKnightCoder/vuepress-blog',
+      docsRepo: 'https://github.com/carefulbird/blog',
       editLinks: true,
       prevLinks: true,
       nextLinks: true,
