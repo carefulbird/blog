@@ -47,7 +47,7 @@ module.exports = config({
       }],
       "element-ui"
   ],
-  base: '/',
+  base: '/blog/',
   head: [
       ['link', {
           rel: 'stylesheet',
