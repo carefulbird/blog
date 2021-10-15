@@ -20,5 +20,5 @@
     "vuepress-plugin-disqus": "^0.2.0",
     "vuepress-plugin-element-ui": "^1.1.0"
   },
-  "homepage": "https://carefulbird.github.io/Blog/"
+  "homepage": "https://carefulbird.github.io/blog/"
 }
