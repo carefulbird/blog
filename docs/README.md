@@ -1,21 +1,21 @@
 ---
 home: true
 lang: zh-CN
-heroText: Talk is cheap!
+heroText: 坚持源于热爱!
 heroImage: /logo.svg
 
 action:
-  - text: 数据结构 💡
-    link: /数据结构/
-    type: primary
-
-  - text: ES6
-    link: /ES6/
+  # - text: 数据结构 💡
+  #   link: /数据结构/
+  #   type: primary
+  # - text: ES6
+  #   link: /ES6/
 
 features:
-  - title: JavaScript
-    details: Javascript 系列 
-    link: /JavaScript/
+  - title: 前端
+    link: /frontEnd/
+  - title: 后端
+    link: backEnd/
 
-footer: Copyright © 2021-present LiHao
+footer: Copyright © 2022-present LiHao
 ---

@@ -1,6 +1,7 @@
-
-const JavaScript = require('./JavaScript.js')
+const FrontEnd = require('./frontEnd.js')
+const BackEnd = require('./backend.js')
 
 module.exports = {
-    "/JavaScript/": JavaScript,
+  '/frontEnd/': FrontEnd,
+  '/backEnd/': BackEnd,
 }

@@ -7,11 +7,12 @@ const nav = require('./nav');
 
 module.exports = config({
   title: "宁采桃花不采臣",
-  description: "操千曲而后晓声，观千剑而后识器",
+  description: "欢迎来到梅林的桃源梦幻结界",
   markdown: {
       extendMarkdown: md => {
           md.set({
-              html: true
+              html: true,
+              lineNumbers: true
           })
           md.use(require('markdown-it-katex'))
       }
